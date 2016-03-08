@@ -1,8 +1,7 @@
 $(function() {
   $("#getGrade").click( function() {
-    var grade = $("#grade").value;
-    // write your conditional
-  
-    
+    var grade = $("#grade").val();
+    // write the conditional to alert the letter grade
+
   });
 });
